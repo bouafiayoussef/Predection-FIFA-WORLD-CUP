@@ -1,0 +1,64 @@
+home,match,away
+Qatar,Match 1,Ecuador
+Senegal,Match 2,Netherlands
+Qatar,Match 18,Senegal
+Netherlands,Match 19,Ecuador
+Ecuador,Match 35,Senegal
+Netherlands,Match 36,Qatar
+England,Match 3,Iran
+United States,Match 4,Wales
+Wales,Match 17,Iran
+England,Match 20,United States
+Wales,Match 33,England
+Iran,Match 34,United States
+Argentina,Match 8,Saudi Arabia
+Mexico,Match 7,Poland
+Poland,Match 22,Saudi Arabia
+Argentina,Match 24,Mexico
+Poland,Match 39,Argentina
+Saudi Arabia,Match 40,Mexico
+Denmark,Match 6,Tunisia
+France,Match 5,Australia
+Tunisia,Match 21,Australia
+France,Match 23,Denmark
+Australia,Match 37,Denmark
+Tunisia,Match 38,France
+Germany,Match 11,Japan
+Spain,Match 10,Costa Rica
+Japan,Match 25,Costa Rica
+Spain,Match 28,Germany
+Japan,Match 43,Spain
+Costa Rica,Match 44,Germany
+Morocco,Match 12,Croatia
+Belgium,Match 9,Canada
+Belgium,Match 26,Morocco
+Croatia,Match 27,Canada
+Croatia,Match 41,Belgium
+Canada,Match 42,Morocco
+Switzerland,Match 13,Cameroon
+Brazil,Match 16,Serbia
+Cameroon,Match 29,Serbia
+Brazil,Match 31,Switzerland
+Serbia,Match 47,Switzerland
+Cameroon,Match 48,Brazil
+Uruguay,Match 14,South Korea
+Portugal,Match 15,Ghana
+South Korea,Match 30,Ghana
+Portugal,Match 32,Uruguay
+Ghana,Match 45,Uruguay
+South Korea,Match 46,Portugal
+Winners Group A,Match 49,Runners-up Group B
+Winners Group C,Match 50,Runners-up Group D
+Winners Group D,Match 52,Runners-up Group C
+Winners Group B,Match 51,Runners-up Group A
+Winners Group E,Match 53,Runners-up Group F
+Winners Group G,Match 54,Runners-up Group H
+Winners Group F,Match 55,Runners-up Group E
+Winners Group H,Match 56,Runners-up Group G
+Winners Match 53,Match 58,Winners Match 54
+Winners Match 49,Match 57,Winners Match 50
+Winners Match 55,Match 60,Winners Match 56
+Winners Match 51,Match 59,Winners Match 52
+Winners Match 57,Match 61,Winners Match 58
+Winners Match 59,Match 62,Winners Match 60
+Winners Match 61,Match 64,Winners Match 62
